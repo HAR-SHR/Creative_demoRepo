@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T08:54:32 IST" name="Default suite" finished-at="2023-03-06T08:54:54 IST" duration-ms="21898">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T08:54:32 IST" name="Default test" finished-at="2023-03-06T08:54:54 IST" duration-ms="21898">
+      <class name="Tests.UI_scenarios">
+        <test-method is-config="true" signature="brosweropen()[pri:0, instance:Tests.UI_scenarios@6e4784bc]" started-at="2023-03-06T08:54:32 IST" name="brosweropen" finished-at="2023-03-06T08:54:49 IST" duration-ms="16163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brosweropen -->
+        <test-method signature="TestCreative()[pri:0, instance:Tests.UI_scenarios@6e4784bc]" started-at="2023-03-06T08:54:49 IST" name="TestCreative" finished-at="2023-03-06T08:54:53 IST" duration-ms="4292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCreative -->
+        <test-method is-config="true" signature="browserclose()[pri:0, instance:Tests.UI_scenarios@6e4784bc]" started-at="2023-03-06T08:54:53 IST" name="browserclose" finished-at="2023-03-06T08:54:54 IST" duration-ms="1302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- Tests.UI_scenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
